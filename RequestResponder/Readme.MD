@@ -105,7 +105,7 @@ Saving the Queue automatically creates a linked **Mailbox** record in Dataverse.
 3. In the left navigation, click **Solutions**.
 4. Click **Import solution** in the command bar.
 5. Browse to and upload the solution file:
-   **[MailResponseAgent_1_0_0_1.zip](solution/MailResponseAgent_1_0_0_2.zip)**
+   **[MailResponseAgent_1_0_0_2.zip](solution/MailResponseAgent_1_0_0_2.zip)**
 6. Follow the on-screen prompts to complete the import.
 
 ---
